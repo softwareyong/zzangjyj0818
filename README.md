@@ -15,34 +15,16 @@
       <th>Period</th>
     </tr>
     <tr>
-      <td>unofficial</td>
-      <td><a href="https://github.com/KAGU2024">KAGU</a></td>
-      <td>Project, Full-Stack Engineering</td>
-      <td>2024.06 - </td>
-    </tr>
-    <tr>
-      <td>unofficial</td>
-      <td><a href="https://github.com/Dev-Race">DEV RACE</a></td>
-      <td>Project, Front-End Engineering</td>
-      <td>2024.05 - 2024.06</td>
-    </tr>
-    <tr>
-      <td>goormthon-Univ</td>
-      <td><a href="https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_33_BE">기억해봄</a></td>
-      <td>Hackathon, Back-End Engineering</td>
-      <td>2024.03</td>
-    </tr>
-    <tr>
       <td>Sangmyung Univ.</td>
-      <td><a href="https://github.com/zzangjyj0818/2023_Sangmyung_Festa_FE">비상</a></td>
-      <td>Festival Web Page, Front-End Engineering</td>
+      <td><a href="https://github.com/softwareyong/Festival-Event-Server">비상(飛上)</a></td>
+      <td>Festival Web Page, Back-End Engineering</td>
       <td>2023.08 - 2023.09</td>
     </tr>
     <tr>
-      <td>unofficial</td>
-      <td><a href="https://github.com/2023-Hackathon-TeamSMUD">SockSense</a></td>
-      <td>Hackathon, Front-End Engineering</td>
-      <td>2023.09</td>
+      <td>KakaoTech BootCamp</td>
+      <td><a href="https://github.com/Kakaotech-18-Ecommerce">골라골라</a></td>
+      <td>Project, Back-End Engineering</td>
+      <td>2024.08~</td>
     </tr>
   </table>
 </div>
@@ -50,9 +32,9 @@
 
 <div align="center">
   <h2>🛠 Development Stack</h2>
-  2023년까지 Front-End 개발자로 활동하다가, 백엔드에 관심이 많아져 2024년부터 백엔드 공부를 시작하게 되었습니다.<br/>
-  최근 Project를 진행하면서, JPA와 Security, Apache Kafka, 실시간 서비스 등 다양한 기술을 경험하고 있는 중입니다.<br/>
-  서버를 직접 배포하기 위한 능력을 기르기위해, Cloud Computing에 대해 학습하고 있습니다.<br/><br/>
+  기술블로그, 노션 등 꾸준한 기록을 통해 성실함을 증명할 수 있습니다.<br/>
+  새로운 도전은 성장의 기회로 생각하기에 어떤 기술이던 도전하고 실행합니다.<br/>
+  서버 이해도를 높이기 위해서 스프링 프레임워크 공부 뿐만 아니라 CS기초를 쌓기 위해 노력하고 있습니다.<br/><br/>
   <table>
     <tr>
       <td align="center">Backend</td>
@@ -120,21 +102,21 @@
       <th>Period</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/2023-Hackathon-TeamSMUD">Hackathon</a></td>
-      <td>SW 융합 클러스터 2.0 해커톤</td>
-      <td>2nd Award</td>
-      <td>2023.09</td>
+      <td><a href="https://github.com/softwareyong/kt_al_road_facility_maintenance">쿠팡맨</a></td>
+      <td>KT와 함께하는 AI경진대회</td>
+      <td>최우수상[TOP3]</td>
+      <td>2022.07 ~ 2022.09</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/softwareyong/Capstone-Design">로드뷰팀</a></td>
+      <td>캡스톤 경진대회</td>
+      <td>대상</td>
+      <td>2023.03 ~  2023.07</td>
     </tr>
   </table>
 </div>
 <br/>
 
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzangjyj0818&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=zzangjyj0818" alt="Git stats" height="160px" /></a>
-  <br/>
-  <h2>☎️ Contact Me</h2>
-  <a href="https://www.instagram.com/im_y._.jae/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/im_y._.jae/"/></a>
-  <a href="mailto:zzangjyj0818@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zzangjyj0818@gmail.com"/></a>
-</div>
+-<div align="left">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyw0324)](https://solved.ac/lyw0324/)
+-</div>
