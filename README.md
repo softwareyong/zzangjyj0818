@@ -117,6 +117,6 @@
 </div>
 <br/>
 
--<div align="left">
+<div align="mid">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyw0324)](https://solved.ac/lyw0324/)
--</div>
+</div>
