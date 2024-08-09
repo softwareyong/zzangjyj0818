@@ -1,6 +1,8 @@
 <div align="center">
-  <h2>🧐 About me</h2>
-자기소개 뭐 넣어야하지!!?:)<br/>
+  <h2>About me</h2>
+  기술블로그, 노션 등 꾸준한 기록을 통해 성실함을 증명할 수 있습니다.<br/>
+  새로운 도전은 성장의 기회로 생각하기에 어떤 기술이던 도전하고 실행합니다.<br/>
+  서버 이해도를 높이기 위해서 스프링 프레임워크 공부 뿐만 아니라 CS기초를 쌓기 위해 노력하고 있습니다.<br/><br/>
 </div>
 
 <br/>
@@ -18,13 +20,13 @@
       <td>Sangmyung Univ.</td>
       <td><a href="https://github.com/softwareyong/Festival-Event-Server">비상(飛上)</a></td>
       <td>Festival Web Page, Back-End Engineering</td>
-      <td>2023.08 - 2023.09</td>
+      <td>2023.08 ~ 2023.09</td>
     </tr>
     <tr>
       <td>KakaoTech BootCamp</td>
       <td><a href="https://github.com/Kakaotech-18-Ecommerce">골라골라</a></td>
       <td>Project, Back-End Engineering</td>
-      <td>2024.08~</td>
+      <td>2024.08~ ing</td>
     </tr>
   </table>
 </div>
@@ -32,9 +34,6 @@
 
 <div align="center">
   <h2>🛠 Development Stack</h2>
-  기술블로그, 노션 등 꾸준한 기록을 통해 성실함을 증명할 수 있습니다.<br/>
-  새로운 도전은 성장의 기회로 생각하기에 어떤 기술이던 도전하고 실행합니다.<br/>
-  서버 이해도를 높이기 위해서 스프링 프레임워크 공부 뿐만 아니라 CS기초를 쌓기 위해 노력하고 있습니다.<br/><br/>
   <table>
     <tr>
       <td align="center">Backend</td>
@@ -117,6 +116,9 @@
 </div>
 <br/>
 
-<div align="mid">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyw0324)](https://solved.ac/lyw0324/)
-</div>
+
+<div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyw0324)](https://solved.ac/lyw0324/)
+ </div>
+ 
